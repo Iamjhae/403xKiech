@@ -18,4 +18,4 @@ Run with custom payload list:
 ```
 python3 403x.py -u https://target.com/admin -w payloads.txt
 ```
-# But update the payload first in 403x/payload.txt
+But update the payload first in 403x/payload.txt
