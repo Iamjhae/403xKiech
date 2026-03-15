@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOURNAME/403x/main/assets/banner.png" width="800">
-</p>
-<h1 align="center">403x</h1>
-<p align="center">
-Advanced 403 Bypass Recon Framework for Bug Bounty Hunters
-</p>
-
- 
- ███████╗ ██████╗ ██████╗ ██╗  ██╗██╗  ██╗
+  ███████╗ ██████╗ ██████╗ ██╗  ██╗██╗  ██╗
  ██╔════╝██╔═══██╗██╔══██╗╚██╗██╔╝╚██╗██╔╝
  █████╗  ██║   ██║██████╔╝ ╚███╔╝  ╚███╔╝
  ██╔══╝  ██║   ██║██╔══██╗ ██╔██╗  ██╔██╗
@@ -15,6 +6,8 @@ Advanced 403 Bypass Recon Framework for Bug Bounty Hunters
  ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
       Advanced 403 Bypass Recon Framework
+
+      
 
 🚀 Overview
 403x is a high-performance reconnaissance and security testing framework designed to identify HTTP 403 (Forbidden) access control bypass vulnerabilities in web applications.
